@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/MelodicAlbuild/melodicdevelopmentinstaller#readme",
   "devDependencies": {
-    "electron": "^9.0.4"
+    "electron": "^9.4.0"
   }
 }
